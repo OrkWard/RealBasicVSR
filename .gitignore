@@ -128,3 +128,9 @@ mmedit/.mim
 
 # results
 results/
+
+# data
+data/
+
+# pdm
+.pdm-python
